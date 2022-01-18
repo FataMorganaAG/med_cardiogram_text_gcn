@@ -1,0 +1,11 @@
+The Electrical Axis of the Heart
+The electrical axis of the heart coincides with its anatomical axis, and lies through the interventricular septum
+Einthoven’s triangle and hexaxial reference system are useful for determining the electrical axis of the heart
+The basic principle is that an electrical force parallel to a given lead axis will record its largest deflection in that ECG lead; an electrical force perpendicular to a lead axis will record a small complex in that ECG lead
+If the cardiac vector is directed toward the positive pole of lead axis the deflections are positive in a given lead; if the cardiac vector is directed toward the negative pole of lead axis the deflections are negative in a given lead
+The electrical axis of the heart is determined by the shape of ventricular complexes in standard leads
+The relation between the electrical axis and the magnitude of the QRS complexes in standard leads is described by Einthoven triangle
+The magnitude and direction of the electromotive force are designated by the A – B arrow
+If vertical lines are drawn from the ends of this arrow to the sides of the triangle, the difference of potentials recorded in each lead can be obtained
+In the normal position of the heart the direction of electrical axis is downward and leftward, therefore the highest R wave will be recorded in the lead II, the lowest – in the lead III
+Values of R wave amplitude in normal position of the electrical axis can be shown as follows: RII > RI > RIII, or it can be calculated that amplitude of the R wave in lead II is equal to the algebraic sum of R in leads I and III: RII = RI + RIII

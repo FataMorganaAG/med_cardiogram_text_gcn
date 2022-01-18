@@ -1,0 +1,8 @@
+Lead locations on an ECG report
+A standard 12-lead ECG report (an electrocardiograph) shows a 2.5 second tracing of each of the twelve leads
+The tracings are most commonly arranged in a grid of four columns and three rows
+The first column is the limb leads (I, II, and III), the second column is the augmented limb leads (aVR, aVL, and aVF), and the last two columns are the precordial leads (V1 to V6)
+Additionally, a rhythm strip may be included as a fourth or fifth row
+The timing across the page is continuous and not tracings of the 12 leads for the same time period
+In other words, if the output were traced by needles on paper, each row would switch which leads as the paper is pulled under the needle
+For example, the top row would first trace lead I, then switch to lead aVR, then switch to V1, and then switch to V4, and so none of these four tracings of the leads are from the same time period as they are traced in sequence through time

@@ -1,0 +1,15 @@
+Medical uses.
+The overall goal of performing an ECG is to obtain information about the electrical function of the heart.
+Medical uses for this information are varied and often need to be combined with knowledge of the structure of the heart and physical examination signs to be interpreted.
+Some indications for performing an ECG include the following: Chest pain or suspected myocardial infarction (heart attack), such as ST elevated myocardial infarction (STEMI) or non-ST elevated myocardial infarction (NSTEMI).
+Symptoms such as shortness of breath, murmurs, fainting, seizures, funny turns, or arrhythmias including new onset palpitations or monitoring of known cardiac arrhythmias.
+Medication monitoring (e.g., drug-induced QT prolongation, Digoxin toxicity) and management of overdose (e.g., tricyclic overdose).
+Electrolyte abnormalities, such as hyperkalemia.
+Perioperative monitoring in which any form of anesthesia is involved (e.g., monitored anesthesia care, general anesthesia).
+This includes preoperative assessment and intraoperative and postoperative monitoring.
+Cardiac stress testing.
+Computed tomography angiography (CTA) and magnetic resonance angiography (MRA) of the heart (ECG is used to "gate" the scanning so that the anatomical position of the heart is steady).
+Clinical cardiac electrophysiology, in which a catheter is inserted through the femoral vein and can have several electrodes along its length to record the direction of electrical activity from within the heart.
+ECGs can be recorded as short intermittent tracings or continuous ECG monitoring.
+Continuous monitoring is used for critically ill patients, patients undergoing general anesthesia, and patients who have an infrequently occurring cardiac arrhythmia that would unlikely be seen on a conventional ten-second ECG.
+Continuous monitoring can be conducted by using Holter monitors, internal and external defibrillators and pacemakers, and/or biotelemetry.

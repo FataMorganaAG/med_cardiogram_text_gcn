@@ -1,0 +1,16 @@
+Axis
+The heart has several axes, but the most common by far is the axis of the QRS complex (references to "the axis" imply the QRS axis)
+Each axis can be computationally determined to result in a number representing degrees of deviation from zero, or it can be categorized into a few types
+The QRS axis is the general direction of the ventricular depolarization wavefront (or mean electrical vector) in the frontal plane
+It is often sufficient to classify the axis as one of three types: normal, left deviated, or right deviated
+Population data shows that a normal QRS axis is from −30° to 105°, with 0° being along lead I and positive being inferior and negative being superior (best understood graphically as the hexaxial reference system)
+Beyond +105° is right axis deviation and beyond −30° is left axis deviation (the third quadrant of −90° to −180° is very rare and is an indeterminate axis)
+A shortcut for determining if the QRS axis is normal is if the QRS complex is mostly positive in lead I and lead II (or lead I and aVF if +90° is the upper limit of normal)
+The normal QRS axis is generally down and to the left, following the anatomical orientation of the heart within the chest
+An abnormal axis suggests a change in the physical shape and orientation of the heart or a defect in its conduction system that causes the ventricles to depolarize in an abnormal way
+Classification	Angle	Notes
+Normal	−30° to 105°	Normal
+Left axis deviation	−30° to −90°	May indicate left ventricular hypertrophy, left anterior fascicular block, or an old inferior STEMI
+Right axis deviation	+105° to +180°	May indicate right ventricular hypertrophy, left posterior fascicular block, or an old lateral STEMI
+Indeterminate axis	+180° to −90°	Rarely seen; considered an 'electrical no-man's land'
+The extent of a normal axis can be +90° or 105° depending on the source

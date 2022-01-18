@@ -1,0 +1,38 @@
+Amplitudes and intervals.
+All of the waves on an ECG tracing and the intervals between them have a predictable time duration, a range of acceptable amplitudes (voltages), and a typical morphology.
+Any deviation from the normal tracing is potentially pathological and therefore of clinical significance.
+For ease of measuring the amplitudes and intervals, an ECG is printed on graph paper at a standard scale: each 1 mm (one small box on the standard ECG paper) represents 40 milliseconds of time on the x-axis, and 0.1 millivolts on the y-axis.
+P wave	The P wave represents depolarization of the atria.
+Atrial depolarization spreads from the SA node towards the AV node, and from the right atrium to the left atrium.
+The P wave is typically upright in most leads except for aVR; an unusual P wave axis (inverted in other leads) can indicate an ectopic atrial pacemaker.
+If the P wave is of unusually long duration, it may represent atrial enlargement.
+Typically a large right atrium gives a tall, peaked P wave while a large left atrium gives a two-humped bifid P wave.	<80 ms.
+PR interval	The PR interval is measured from the beginning of the P wave to the beginning of the QRS complex.
+This interval reflects the time the electrical impulse takes to travel from the sinus node through the AV node.
+A PR interval shorter than 120 ms suggests that the electrical impulse is bypassing the AV node, as in Wolf-Parkinson-White syndrome.
+A PR interval consistently longer than 200 ms diagnoses first degree atrioventricular block.
+The PR segment (the portion of the tracing after the P wave and before the QRS complex) is typically completely flat, but may be depressed in pericarditis.	120 to 200 ms.
+QRS complex	The QRS complex represents the rapid depolarization of the right and left ventricles.
+The ventricles have a large muscle mass compared to the atria, so the QRS complex usually has a much larger amplitude than the P wave.
+If the QRS complex is wide (longer than 120 ms) it suggests disruption of the heart's conduction system, such as in LBBB, RBBB, or ventricular rhythms such as ventricular tachycardia.
+Metabolic issues such as severe hyperkalemia, or tricyclic antidepressant overdose can also widen the QRS complex.
+An unusually tall QRS complex may represent left ventricular hypertrophy while a very low-amplitude QRS complex may represent a pericardial effusion or infiltrative myocardial disease.	80 to 100 ms.
+J-point	The J-point is the point at which the QRS complex finishes and the ST segment begins.
+The J-point may be elevated as a normal variant.
+The appearance of a separate J wave or Osborn wave at the J-point is pathognomonic of hypothermia or hypercalcemia.
+ST segment	The ST segment connects the QRS complex and the T wave; it represents the period when the ventricles are depolarized.
+It is usually isoelectric, but may be depressed or elevated with myocardial infarction or ischemia.
+ST depression can also be caused by LVH or digoxin.
+ST elevation can also be caused by pericarditis, Brugada syndrome, or can be a normal variant (J-point elevation).
+T wave	The T wave represents the repolarization of the ventricles.
+It is generally upright in all leads except aVR and lead V1.
+Inverted T waves can be a sign of myocardial ischemia, left ventricular hypertrophy, high intracranial pressure, or metabolic abnormalities.
+Peaked T waves can be a sign of hyperkalemia or very early myocardial infarction.	160 ms.
+Corrected QT interval (QTc)	The QT interval is measured from the beginning of the QRS complex to the end of the T wave.
+Acceptable ranges vary with heart rate, so it must be corrected to the QTc by dividing by the square root of the RR interval.
+A prolonged QTc interval is a risk factor for ventricular tachyarrhythmias and sudden death.
+Long QT can arise as a genetic syndrome, or as a side effect of certain medications.
+An unusually short QTc can be seen in severe hypercalcemia.	<440 ms.
+U wave	The U wave is hypothesized to be caused by the repolarization of the interventricular septum.
+It normally has a low amplitude, and even more often is completely absent.
+A very prominent U wave can be a sign of hypokalemia, hypercalcemia or hyperthyroidism.

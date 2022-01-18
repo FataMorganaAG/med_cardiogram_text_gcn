@@ -1,0 +1,21 @@
+History
+In 1872, Alexander Muirhead is reported to have attached wires to the wrist of a patient with fever to obtain an electronic record of their heartbeat
+In 1882, John Burdon-Sanderson working with frogs, was the first to appreciate that the interval between variations in potential was not electrically quiescent and coined the term "isoelectric interval" for this period
+In 1887, Augustus Waller invented an ECG machine consisting of a Lippmann capillary electrometer fixed to a projector
+The trace from the heartbeat was projected onto a photographic plate that was itself fixed to a toy train
+This allowed a heartbeat to be recorded in real time
+In 1895, Willem Einthoven assigned the letters P, Q, R, S, and T to the deflections in the theoretical waveform he created using equations which corrected the actual waveform obtained by the capillary electrometer to compensate for the imprecision of that instrument
+Using letters different from A, B, C, and D (the letters used for the capillary electrometer's waveform) facilitated comparison when the uncorrected and corrected lines were drawn on the same graph
+Einthoven probably chose the initial letter P to follow the example set by Descartes in geometry
+When a more precise waveform was obtained using the string galvanometer, which matched the corrected capillary electrometer waveform, he continued to use the letters P, Q, R, S, and T,and these letters are still in use today
+Einthoven also described the electrocardiographic features of a number of cardiovascular disorders
+In 1897, the string galvanometer was invented by the French engineer Clément Ader
+In 1901, Einthoven, working in Leiden, the Netherlands, used the string galvanometer: the first practical ECG
+This device was much more sensitive than the capillary electrometer Waller used
+In 1924, Einthoven was awarded the Nobel Prize in Medicine for his pioneering work in developing the ECG
+By 1927, General Electric had developed a portable apparatus that could produce electrocardiograms without the use of the string galvanometer
+This device instead combined amplifier tubes similar to those used in a radio with an internal lamp and a moving mirror that directed the tracing of the electric pulses onto film
+In 1937, Taro Takemi invented a new portable electrocardiograph machine
+In 1942, Emanuel Goldberger increases the voltage of Wilson's unipolar leads by 50% and creates the augmented limb leads aVR, aVL and aVF
+When added to Einthoven's three limb leads and the six chest leads we arrive at the 12-lead electrocardiogram that is used today
+In the late 1940s Rune Elmqvist invented an inkjet printer - thin jets of ink deflected by electrical potentials from the heart, with good frequency response and direct recording of ECG on paper - the device, called the Mingograf, was sold by Siemens Elema until the 1990s

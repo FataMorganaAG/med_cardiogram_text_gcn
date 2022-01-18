@@ -1,0 +1,42 @@
+Limb leads and electrical conduction through the heart
+The animation shown to the right illustrates how the path of electrical conduction gives rise to the ECG waves in the limb leads
+Recall that a positive current (as created by depolarization of cardiac cells) traveling towards the positive electrode and away from the negative electrode creates a positive deflection on the ECG
+Likewise, a positive current traveling away from the positive electrode and towards the negative electrode creates a negative deflection on the ECG
+The red arrow represents the overall direction of travel of the depolarization
+The magnitude of the red arrow is proportional to the amount of tissue being depolarized at that instance
+The red arrow is simultaneously shown on the axis of each of the 3 limb leads
+Both the direction and the magnitude of the red arrow's projection onto the axis of each limb lead is shown with blue arrows
+Then, the direction and magnitude of the blue arrows are what theoretically determine the deflections on the ECG
+For example, as a blue arrow on the axis for Lead I moves from the negative electrode, to the right, towards the positive electrode, the ECG line rises, creating an upward wave
+As the blue arrow on the axis for Lead I moves to the left, a downward wave is created
+The greater the magnitude of the blue arrow, the greater the deflection on the ECG for that particular limb lead
+Frames 1–3 depict the depolarization being generated in and spreading through the Sinoatrial node
+The SA node is too small for its depolarization to be detected on most ECGs
+Frames 4–10 depict the depolarization traveling through the atria, towards the Atrioventricular node
+During frame 7, the depolarization is traveling through the largest amount of tissue in the atria, which creates the highest point in the P wave
+Frames 11–12 depict the depolarization traveling through the AV node
+Like the SA node, the AV node is too small for the depolarization of its tissue to be detected on most ECGs
+This creates the flat PR segment
+Frame 13 depicts an interesting phenomenon in an over-simplified fashion
+It depicts the depolarization as it starts to travel down the interventricular septum, through the Bundle of His and Bundle branches
+After the Bundle of His, the conduction system splits into the left bundle branch and the right bundle branch
+Both branches conduct action potentials at about 1 m/s
+Interestingly, however, the action potential starts traveling down the left bundle branch about 5 milliseconds before it starts traveling down the right bundle branch, as depicted by frame 13
+This causes the depolarization of the interventricular septum tissue to spread from left to right, as depicted by the red arrow in frame 14
+In some cases, this gives rise to a negative deflection after the PR interval, creating a Q wave such as the one seen in lead I in the animation to the right
+Depending on the mean electrical axis of the heart, this phenomenon can result in a Q wave in lead II as well
+Following depolarization of the interventricular septum, the depolarization travels towards the apex of the heart
+This is depicted by frames 15–17 and results in a positive deflection on all three limb leads, which creates the R wave
+Frames 18–21 then depict the depolarization as it travels throughout both ventricles from the apex of the heart, following the action potential in the Purkinje fibers
+This phenomenon creates a negative deflection in all three limb leads, forming the S wave on the ECG
+Repolarization of the atria occurs at the same time as the generation of the QRS complex, but it is not detected by the ECG since the tissue mass of the ventricles is so much larger than that of the atria
+Ventricular contraction occurs between ventricular depolarization and repolarization
+During this time, there is no movement of charge, so no deflection is created on the ECG
+This results in the flat ST segment after the S wave
+Frames 24–28 in the animation depict repolarization of the ventricles
+The epicardium is the first layer of the ventricles to repolarize, followed by the myocardium
+The endocardium is the last layer to repolarize
+The plateau phase of depolarization has been shown to last longer in endocardial cells than in epicardial cells
+This causes repolarization to start from the apex of the heart and move upwards
+Since repolarization is the spread of negative current as membrane potentials decrease back down to the resting membrane potential, the red arrow in the animation is pointing in the direction opposite of the repolarization
+This therefore creates a positive deflection in the ECG, and creates the T wave

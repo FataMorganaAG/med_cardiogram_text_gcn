@@ -1,0 +1,15 @@
+Theory
+Interpretation of the ECG is ultimately that of pattern recognition
+In order to understand the patterns found, it is helpful to understand the theory of what ECGs represent
+The theory is rooted in electromagnetics and boils down to the four following points: depolarization of the heart towards the positive electrode produces a positive deflection, depolarization of the heart away from the positive electrode produces a negative deflection, repolarization of the heart towards the positive electrode produces a negative deflection, repolarization of the heart away from the positive electrode produces a positive deflection
+Thus, the overall direction of depolarization and repolarization produces positive or negative deflection on each lead's trace
+For example, depolarizing from right to left would produce a positive deflection in lead I because the two vectors point in the same direction
+In contrast, that same depolarization would produce minimal deflection in V1 and V2 because the vectors are perpendicular, and this phenomenon is called isoelectric
+Normal rhythm produces four entities – a P wave, a QRS complex, a T wave, and a U wave – that each have a fairly unique pattern
+The P wave represents atrial depolarization
+The QRS complex represents ventricular depolarization
+The T wave represents ventricular repolarization
+The U wave represents papillary muscle repolarization
+Changes in the structure of the heart and its surroundings (including blood composition) change the patterns of these four entities
+The U wave is not typically seen and its absence is generally ignored
+Atrial repolarisation is typically hidden in the much more prominent QRS complex and normally cannot be seen without additional, specialised electrodes

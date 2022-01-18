@@ -1,0 +1,3 @@
+Electrophysiology
+The study of the conduction system of the heart is called cardiac electrophysiology (EP)
+An EP study is performed via a right-sided cardiac catheterization: a wire with an electrode at its tip is inserted into the right heart chambers from a peripheral vein, and placed in various positions in close proximity to the conduction system so that the electrical activity of that system can be recorded

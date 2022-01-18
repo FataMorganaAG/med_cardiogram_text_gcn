@@ -1,0 +1,7 @@
+R wave
+R wave represents the process of depolarization of the ventricles
+The normal R wave amplitude is 5-15 mm
+The normal R wave is recorded in all standard and augmented limb leads
+In the aVR lead R wave may be low or even absent
+In the chest leads R wave amplitude increases from V1 to V4, and than slightly decreases in V5 and V6 leads
+RV1,V2 reflects activation of the interventricular septum, and R wave in V4, V5, V6 leads activation of the right and left ventricles

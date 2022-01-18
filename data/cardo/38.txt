@@ -1,0 +1,8 @@
+Normal position of the heart electrical axis
+The direction of electrical axis of the heart changes depends on the position of the heart in the thoracic cage
+In high diaphragm level (hypersthenic persons) the heart assumes horizontal position (so-called “lying heart”), and electrical axis of the heart deviates to the left or horizontal become more parallel to the lead I
+Horizontal position of the heart electrical axis
+Therefore, the highest R wave in horizontal position of tht heart is recorded in the lead I: RI > RII > RIII
+In low diaphragm level (asthenic subjects) the position of the heart is vertical (so-called “drop heart”), and electrical axis of the heart deviates to the right or vertical, that is, more parallel to the lead III
+Vertical position of the heart electrical axis
+The highest R wave is therefore recorded in lead III: RIII > RII > RI

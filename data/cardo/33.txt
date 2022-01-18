@@ -1,0 +1,7 @@
+The equilateral triangle of Einthoven, formed by leads I, II, and III
+The three standard leads have been arbitrarily established so that in lead I the right arm is negative and the left arm is positive, in lead II the right arm is negative and the left leg is positive, and in lead III the left arm is negative and the left leg is positive
+These polarities are transported onto the Einthoven triangle
+The perpendicular from the center of the triangle divides each lead axis into two parts – positive turned to the positive limb and negative turned to the negative limb
+A single vector, called cardiac vector, which has magnitude, direction, and sense, represents depolarization and repolarization
+A vector projections that fall on the positive half of a lead axis appear as a positive deflections on that lead in the ECG, and on the negative half – as a negative deflection
+A vector force parallel to a given lead axis will project a large deflection in that lead; a vector perpendicular to a lead axis will project a small or biphasic complex in that lead

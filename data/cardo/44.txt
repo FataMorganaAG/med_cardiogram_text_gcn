@@ -1,0 +1,3 @@
+The ST segment
+The ST segment represents the period when all parts of the ventricles are in the depolarized state
+The ST segment duration depends on the heart rate

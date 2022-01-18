@@ -1,0 +1,8 @@
+Limb leads
+The limb leads and augmented limb leads (Wilson's central terminal is used as the negative pole for the latter in this representation)
+Leads I, II and III are called the limb leads
+The electrodes that form these signals are located on the limbs – one on each arm and one on the left leg
+The limb leads form the points of what is known as Einthoven's triangle
+Lead I is the voltage between the (positive) left arm (LA) electrode and right arm (RA) electrode: I = LA - RA
+Lead II is the voltage between the (positive) left leg (LL) electrode and the right arm (RA) electrode: II = LL - RA
+Lead III is the voltage between the (positive) left leg (LL) electrode and the left arm (LA) electrode: III = LL - LA
