@@ -1,0 +1,7 @@
+duration depends heart rate
+duration depends cardiac rate
+q interval qrst complex measured beginning q r wave end wave represents electrical ventricular systole
+example rate 60 80 beats per minute q duration 0 32 0 37 second men 0 35 0 4 women
+q interval p interval
+q interval women longer man
+p interval measured end wave beginning p wave represents electrical diastole heart

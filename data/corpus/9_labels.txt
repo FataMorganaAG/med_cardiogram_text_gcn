@@ -1,0 +1,12 @@
+Additional electrodes may rarely be placed to generate other leads for specific diagnostic purposes
+A Lewis lead (requiring an electrode at the right sternal border in the second intercostal space) can be used to study pathological rhythms arising in the right atrium
+Two to four intracardiac leads are added via cardiac catheterization
+Posterior leads (V7 to V9) may be used to demonstrate the presence of a posterior myocardial infarction
+The word "electrogram" (EGM) without further specification usually means an intracardiac electrogram
+It can also evaluate the risk in people with Wolff-Parkinson-White syndrome, as well as terminate supraventricular tachycardia caused by re-entry
+An esophageal lead avails for a more accurate differentiation between certain cardiac arrhythmias, particularly atrial flutter, AV nodal reentrant tachycardia and orthodromic atrioventricular reentrant tachycardia
+Right-sided precordial leads may be used to better study pathology of the right ventricle or for dextrocardia (and are denoted with an R (e.g., V5R)
+The standard ECG leads (external leads) are I, II, III, aVL, V1, and V6
+Specialized leads
+An esophogeal lead can be inserted to a part of the esophagus where the distance to the posterior wall of the left atrium is only approximately 5–6 mm (remaining constant in people of different age and weight)
+An intracardiac electrogram (ICEG) is essentially an ECG with some added intracardiac leads (that is, inside the heart)

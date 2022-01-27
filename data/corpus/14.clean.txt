@@ -1,0 +1,15 @@
+theory
+interpretation ecg ultimately pattern recognition
+order understand patterns found helpful understand theory ecgs represent
+theory rooted electromagnetics boils four following points depolarization heart towards positive electrode produces positive deflection depolarization heart away positive electrode produces negative deflection repolarization heart towards positive electrode produces negative deflection repolarization heart away positive electrode produces positive deflection
+thus overall direction depolarization repolarization produces positive negative deflection lead 's trace
+example depolarizing right left would produce positive deflection lead two vectors point direction
+contrast depolarization would produce minimal deflection v1 v2 vectors perpendicular phenomenon called isoelectric
+normal rhythm produces four entities p wave qrs complex wave u wave fairly unique pattern
+p wave represents atrial depolarization
+qrs complex represents ventricular depolarization
+wave represents ventricular repolarization
+u wave represents papillary muscle repolarization
+changes structure heart surroundings including blood composition change patterns four entities
+u wave typically seen absence generally ignored
+atrial repolarisation typically hidden much prominent qrs complex normally cannot seen without additional specialised electrodes

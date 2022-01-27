@@ -1,0 +1,5 @@
+Electrical systole and diastole on the normal ECG
+Repolarization is an electrochemical phenomenon of energy restoration that occurs more slowly
+Therefore, QRS complex (ventricular depolarization) is of short duration, but the T wave (ventricular repolarization) is of long duration
+In each cardiac cycle there are two electrical processes: depolarization and repolarization
+Depolarization is an electrochemical phenomenon that occurs rapidly

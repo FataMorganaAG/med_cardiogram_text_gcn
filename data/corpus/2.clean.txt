@@ -1,0 +1,15 @@
+medical uses
+overall goal performing ecg obtain information electrical function heart
+medical uses information varied often need combined knowledge structure heart physical examination signs interpreted
+indications performing ecg include following chest pain suspected myocardial infarction heart attack st elevated myocardial infarction stemi non st elevated myocardial infarction nstemi
+symptoms shortness breath murmurs fainting seizures funny turns arrhythmias including new onset palpitations monitoring known cardiac arrhythmias
+medication monitoring e g drug induced qt prolongation digoxin toxicity management overdose e g tricyclic overdose
+electrolyte abnormalities hyperkalemia
+perioperative monitoring form anesthesia involved e g monitored anesthesia care general anesthesia
+includes preoperative assessment intraoperative postoperative monitoring
+cardiac stress testing
+computed tomography angiography cta magnetic resonance angiography mra heart ecg used gate scanning anatomical position heart steady
+clinical cardiac electrophysiology catheter inserted femoral vein several electrodes along length record direction electrical activity within heart
+ecgs recorded short intermittent tracings continuous ecg monitoring
+continuous monitoring used critically ill patients patients undergoing general anesthesia patients infrequently occurring cardiac arrhythmia would unlikely seen conventional ten second ecg
+continuous monitoring conducted using holter monitors internal external defibrillators pacemakers biotelemetry

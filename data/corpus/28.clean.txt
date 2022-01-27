@@ -1,0 +1,15 @@
+operating principle
+fluctuations potential difference arise exitation heart muscle senced electrodes attached patient body transmitted apparatus
+input voltage extremely low therefore amplified 600 700 times
+since magnitude direction electromotive force incessantly change cardiac cycle galvanometer pointer shows variations voltage recording device draws curve moving paper show graphically fluctuations
+recording principle differs various instruments
+electrocardiographs popular fluctuations recorded moving paper measurement
+ink writing instruments draw curves paper
+electrocardiographs special heart sensitive paper used
+dark paper coated heart sensitive layers paraffin chalk hot stylus removes paraffin colored supporting paper record
+whichever instrument used sensitivity galvanometer selected voltage 1 mv causes 1 cm deviation recording device
+sensitivity amplification apparatus checked recording electrocardiograms
+end standardization voltage 1 mv used caused 1 cm deviation stylus
+tape may move various speeds 25 100 mm speed 50 mm usually preferred
+speed tape known easy calculate duration separate elements ecg
+waves amplitude measured mm duration seconds

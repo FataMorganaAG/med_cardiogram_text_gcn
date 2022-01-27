@@ -1,0 +1,2 @@
+The triaxial reference system of Bayley, produced by transposing the three sides of the triangle (leads I, II, and III) to a common central point
+The hexaxial reference system is produced by adding the augmented unipolar limb lead axes to the triaxial system

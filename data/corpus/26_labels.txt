@@ -1,0 +1,5 @@
+Recording ECG
+It includes the following parts: The sensitive elements, electrodes, which are attached to the body of the patient to pick up the potential differences that arise during excitation of the heart muscle, and lead wires; Amplifiers, which amplify the minutest voltage of electromotive force (1 – 2 mV) to the level that can be recorded; A galvanometer to measure the voltage; A recording instrument, including a traction mechanism and a time marker; A power unit
+Development of electrocardiography is connected with the name of a Dutch physiologist Einthoven, who was the first in 1903 to record biocurrents of the heart by a string galvanometer
+A modern electrocardiograph is actually a voltage- measuring instrument
+He developed some theoretical and practical principles of electrocardiography

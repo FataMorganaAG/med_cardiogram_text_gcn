@@ -1,0 +1,3 @@
+qrs interval
+qrs interval measured beginning q wave end wave represents process depolarization ventricles
+normal duration qrs interval 0 06 0 1 sec time corresponds intraventricular conduction

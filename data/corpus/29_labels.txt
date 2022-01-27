@@ -1,0 +1,8 @@
+The ECG leads
+Lead III is obtained by connecting the left arm (-) and left leg (+) electrodes
+To record a routine ECG, 12 leads are used in clinical practice: 3 standard bipolar limb leads, 3 augmented unipolar limb leads, 6 chest leads
+Lead II is obtained by connecting the right arm (-) and left leg (+) electrodes
+Standard leads proposed by Einthoven in 1913 y., record potential difference between two points of the body
+Lead I is obtained by connecting the right arm (-) and left arm (+) electrodes
+Standard Bipolar Limb Leads
+The electrodes are placed on the right arm, the left arm, the left leg, and the fourth electrode on the right leg is connected with the earth wire

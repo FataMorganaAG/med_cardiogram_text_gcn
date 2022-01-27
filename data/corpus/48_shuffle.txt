@@ -1,0 +1,21 @@
+measurement duration amplitude ecg waves intervals
+interpretation ecg
+fluctuation normally exceed 0 1 second
+ecg conclusion necessary note following cardiac rhythm pacemaker sinus nonsinus rhythm regularity cardiac rhythm regular irregular heart rate position electrical axis heart presence four ecg syndromes arrhythmias abnormalities conductivity atrial ventricular hypertrophy myocardial damage ischemia injury necrosis scar
+amplitude highest r wave exceed 5 mm sum r waves amplitude three standard leads less 15 mm ecg voltage considered decreased
+increased duration waves intervals indicates slowed impulse conduction corresponding part cardiac conduction system
+determination cardiac rhythm pacemaker site
+ecg conclusion
+greater variations r r intervals duration indicate irregular cardiac rhythm
+measurement ecg amplitude
+r r intervals regular rhythm equal
+normal sinus rhythm characterized upright p wave lead ii avf following qrs complex
+p waves configuration equal lead
+calculation heart rate
+determination electrical axis heart
+depolarization repolarization portions normal ecg
+regular cardiac rhythm heart rate determined formula hr 60 r r 60 number seconds minute r r duration r r intervals seconds
+r waves amplitude measured standard leads
+p wave duration indicates time atria activation p q interval qrs complex duration ventricular activation
+determination cardiac rhythm regularity
+estimation conductivity

@@ -1,0 +1,15 @@
+Once the speed of the tape is known, it is easy to calculate the duration of the separate elements of the ECG
+Whichever instrument is used, the sensitivity of the galvanometer is so selected that the voltage of 1 mV causes 1-cm deviation of the recording device
+Fluctuations in the potential difference that arise during the exitation of the heart muscle are senced by the electrodes attached to the patient’s body and transmitted to the apparatus
+There are electrocardiographs in which special heart-sensitive paper is used
+Waves amplitude is measured in mm, duration – in seconds
+These are ink-writing instruments, which draw curves on paper
+Electrocardiographs are popular in which the fluctuations are recorded on a moving paper during the measurement
+The tape may move at various speeds, from 25 to 100 mm/s, but the speed of 50 mm/s is usually preferred
+Dark paper is coated with heart- sensitive layers of paraffin and chalk; a hot stylus, which removes paraffin from the colored supporting paper, does the record
+The input voltage is extremely low, and it is therefore amplified 600 – 700 times
+The sensitivity and amplification of the apparatus should be checked before recording electrocardiograms
+The recording principle differs with various instruments
+Operating principle
+Since the magnitude and direction of the electromotive force incessantly change during the cardiac cycle, the galvanometer pointer shows variations in the voltage a recording device draws a curve on a moving paper to show graphically these fluctuations
+To that end, a standardization voltage of 1 mV should be used, and this caused a 1-cm deviation of the stylus

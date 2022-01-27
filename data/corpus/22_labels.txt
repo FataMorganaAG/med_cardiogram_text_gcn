@@ -1,0 +1,13 @@
+The right coronary artery (RCA) usually supplies the inferior aspect of the heart, and therefore causes ST elevations in inferior leads (II, III and aVF)
+The left anterior descending (LAD) artery supplies the anterior wall of the heart, and therefore causes ST elevations in anterior leads (V1 and V2)
+Ischemia and infarction
+Ischemia or non-ST elevation myocardial infarctions (non-STEMIs) may manifest as ST depression or inversion of T waves
+The coronary artery that has been occluded can be identified in an STEMI based on the location of ST elevation
+The LCx supplies the lateral aspect of the heart and therefore causes ST elevations in lateral leads (I, aVL and V6)
+Over a period of days the ST elevation will resolve
+It may also affect the high frequency band of the QRS
+The earliest sign is hyperacute T waves, peaked T waves due to local hyperkalemia in ischemic myocardium
+Over a period of hours, a pathologic Q wave may appear and the T wave will invert
+This then progresses over a period of minutes to elevations of the ST segment by at least 1 mm
+ST elevation myocardial infarctions (STEMIs) have different characteristic ECG findings based on the amount of time elapsed since the MI first occurred
+Pathologic Q waves generally will remain permanently

@@ -1,0 +1,14 @@
+lead augmented vector right avr positive electrode right arm
+negative pole combination right arm electrode left leg electrode avl la frac 1 2 ra frac 32 la v w
+augmented limb leads
+lead augmented vector left avl positive electrode left arm
+derived three electrodes leads ii iii use goldberger 's central terminal negative pole
+goldberger terminals scale augments wilson results 50 cost sacrificing physical correctness negative pole three
+together leads ii iii augmented limb leads avr avl avf form basis hexaxial reference system used calculate heart 's electrical axis frontal plane
+negative pole combination left arm electrode left leg electrode avr ra frac 1 2 la frac 32 ra v w
+older versions nodes vr vl vf use wilson 's central terminal negative pole amplitude small thick lines old ecg machines
+leads avr avl avf augmented limb leads
+referred immediately negative pole
+lead augmented vector foot avf positive electrode left leg
+negative pole combination right arm electrode left arm electrode avf frac 1 2 ra la frac 32 v w
+goldberger 's central terminal combination inputs two limb electrodes different combination augmented lead

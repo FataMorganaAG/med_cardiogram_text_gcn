@@ -1,0 +1,7 @@
+wave
+wave represents repolarization ventricles
+normal wave asymmetric gradual ascent converts rounded summit followed abrupt descent
+normal wave duration 0 12 0 16 second amplitude 2 5 6 mm
+normal wave always upright ii avf v2 v6 ti tiii tv6 tv1 leads
+wave may upright two phased inverted iii avl v1 leads
+normal wave always inverted avr lead

@@ -1,0 +1,3 @@
+The QRS interval, measured from the beginning of the Q wave to the end of the S wave, represents the process of depolarization of the ventricles.
+The QRS interval.
+The normal duration of the QRS interval is 0.06 – 0.1 sec., this time corresponds to the intraventricular conduction.

@@ -1,0 +1,15 @@
+The T wave represents ventricular repolarization
+The U wave is not typically seen and its absence is generally ignored
+Atrial repolarisation is typically hidden in the much more prominent QRS complex and normally cannot be seen without additional, specialised electrodes
+Theory
+The theory is rooted in electromagnetics and boils down to the four following points: depolarization of the heart towards the positive electrode produces a positive deflection, depolarization of the heart away from the positive electrode produces a negative deflection, repolarization of the heart towards the positive electrode produces a negative deflection, repolarization of the heart away from the positive electrode produces a positive deflection
+The P wave represents atrial depolarization
+Normal rhythm produces four entities – a P wave, a QRS complex, a T wave, and a U wave – that each have a fairly unique pattern
+The U wave represents papillary muscle repolarization
+For example, depolarizing from right to left would produce a positive deflection in lead I because the two vectors point in the same direction
+Interpretation of the ECG is ultimately that of pattern recognition
+In contrast, that same depolarization would produce minimal deflection in V1 and V2 because the vectors are perpendicular, and this phenomenon is called isoelectric
+Changes in the structure of the heart and its surroundings (including blood composition) change the patterns of these four entities
+In order to understand the patterns found, it is helpful to understand the theory of what ECGs represent
+The QRS complex represents ventricular depolarization
+Thus, the overall direction of depolarization and repolarization produces positive or negative deflection on each lead's trace

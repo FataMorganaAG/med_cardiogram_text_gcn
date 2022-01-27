@@ -1,0 +1,9 @@
+graph voltage versus time electrical activity heart using electrodes placed skin
+changes normal ecg pattern occur numerous cardiac abnormalities including cardiac rhythm disturbances atrial fibrillation ventricular tachycardia inadequate coronary artery blood flow myocardial ischemia myocardial infarction electrolyte disturbances hypokalemia hyperkalemia
+way overall magnitude direction heart 's electrical depolarization captured moment throughout cardiac cycle three main components ecg p wave represents depolarization atria qrs complex represents depolarization ventricles wave represents repolarization ventricles
+trained clinician ecg conveys large amount information structure heart function electrical conduction system
+among things ecg used measure rate rhythm heartbeats size position heart chambers presence damage heart 's muscle cells conduction system effects heart drugs function implanted pacemakers
+electrocardiography process producing electrocardiogram ecg ekg
+electrodes detect small electrical changes consequence cardiac muscle depolarization followed repolarization cardiac cycle heartbeat
+conventional 12 lead ecg ten electrodes placed patient 's limbs surface chest overall magnitude heart 's electrical potential measured twelve different angles leads recorded period time usually ten seconds
+heartbeat healthy heart orderly progression depolarization starts pacemaker cells sinoatrial node spreads throughout atrium passes atrioventricular node bundle purkinje fibers spreading left throughout ventricles orderly pattern depolarization gives rise characteristic ecg tracing

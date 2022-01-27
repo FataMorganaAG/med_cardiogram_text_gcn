@@ -1,0 +1,7 @@
+Artifacts
+Distortion poses significant challenges to healthcare providers, who employ various techniques and strategies to safely recognize these false signals
+Artifacts are distorted signals caused by a secondary internal or external sources, such as muscle movement or interference from an electrical device
+An ECG tracing is affected by patient motion
+Accurately separating the ECG artifact from the true ECG signal can have a significant impact on patient outcomes and legal liabilities
+Improper lead placement (for example, reversing two of the limb leads) has been estimated to occur in 0% to 4% of all ECG recordings, and has resulted in improper diagnosis and treatment including unnecessary use of thrombolytic therapy
+Some rhythmic motions (such as shivering or tremors) can create the illusion of cardiac arrhythmia

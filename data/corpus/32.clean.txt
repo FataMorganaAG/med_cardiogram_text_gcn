@@ -1,0 +1,5 @@
+basic ecg principles
+einthoven triangle
+einthoven equilateral triangle concept supposes left arm right arm left leg form apexes equilateral triangle heart electrical point assumed center triangle
+given moment cardiac cycle electromotive forces generated heart may projected sides triangle
+sides triangle analogous three standard limb leads called lead axes

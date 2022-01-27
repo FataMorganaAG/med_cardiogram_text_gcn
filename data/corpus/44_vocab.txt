@@ -1,0 +1,12 @@
+period
+duration
+segment
+rate
+heart
+represents
+st
+depends
+state
+ventricles
+parts
+depolarized

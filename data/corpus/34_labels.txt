@@ -1,0 +1,3 @@
+When three sides of the triangle (leads I, II, and III) are transported so that their centers are superimposed on one another, the triaxial reference system described by Bayley is formed
+Triaxial and Hexaxial Frontal Plane Lead Reference System
+Polarity of standard leads axes

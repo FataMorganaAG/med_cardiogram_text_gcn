@@ -1,0 +1,29 @@
+V6	Horizontally even with V4 and V5 in the mid-axillary line.
+The gel typically contains potassium chloride – sometimes silver chloride as well – to permit electron conduction from the skin to the wire and to the electrocardiogram.
+Such a pair forms a lead.
+Electrode name	Electrode placement RA On the right arm, avoiding thick muscle.
+Electrodes are the actual conductive pads attached to the body surface.
+RL	On the right leg, lower end of inner aspect of calf muscle. (Avoid bony prominences).
+In fact, instead of being a constant reference, VW has a value that fluctuates throughout the heart cycle.
+V4	In the fifth intercostal space (between ribs 5 and 6) in the mid-clavicular line.
+Electrodes and leads.
+Any pair of electrodes can measure the electrical potential difference between the two corresponding locations of attachment.
+This averaging for the common lead and the abstract unipolar lead concept makes for a more challenging understanding and is complicated by sloppy usage of "lead" and "electrode".
+Commonly, 10 electrodes attached to the body are used to form 12 ECG leads, with each lead measuring a specific electrical potential difference (as listed in the table below).
+LL	In the same location where RL was placed, but on the left leg.
+LA In the same location where RA was placed, but on the left arm.
+It also does not truly represent the center-of-heart potential due to the body parts the signals travel through.
+V5  Horizontally even with V4, in the left anterior axillary line.
+However, "leads" can also be formed between a physical electrode and a virtual electrode, known as Wilson's central terminal (WCT), whose potential is defined as the average potential measured by three limb electrodes that are attached to the right arm, the left arm, and the left foot, respectively.
+The common virtual electrode, known as Wilson's central terminal (VW), is produced by averaging the measurements from the electrodes RA, LA, and LL to give an average potential of the body: In a 12-lead ECG, all leads except the limb leads are assumed to be unipolar (aVR, aVL, aVF, V1, V2, V3, V4, V5, and V6).
+In medical settings, the term leads is also sometimes used to refer to the electrodes themselves, although this is technically incorrect.
+V3	Between leads V2 and V4.
+V1	In the fourth intercostal space (between ribs 4 and 5) just to the right of the sternum (breastbone).
+Leads are broken down into three types: limb; augmented limb; and precordial or chest.
+The 12-lead ECG has a total of three limb leads and three augmented limb leads arranged like spokes of a wheel in the coronal plane (vertical), and six precordial leads or chest leads that lie on the perpendicular transverse plane (horizontal).
+The measurement of a voltage requires two contacts and so, electrically, the unipolar leads are measured from the common lead (negative) and the unipolar lead (positive).
+Each electrode consists of an electrically conductive electrolyte gel and a silver/silver chloride conductor.
+V2	In the fourth intercostal space (between ribs 4 and 5) just to the left of the sternum.
+Two types of electrodes in common use are a flat paper-thin sticker and a self-adhesive circular pad.
+The former are typically used in a single ECG recording while the latter are for continuous recordings as they stick longer.
+The 10 electrodes in a 12-lead ECG are listed below.

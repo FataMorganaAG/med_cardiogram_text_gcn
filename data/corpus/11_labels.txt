@@ -1,0 +1,11 @@
+Diagram showing the contiguous leads in the same color in the standard 12-lead layout
+Contiguity of leads
+Lateral leads	I, aVL, V5 and V6	Look at the electrical activity from the vantage point of the lateral wall of left ventricle
+Two leads that look at neighboring anatomical areas are said to be contiguous
+Each of the 12 ECG leads records the electrical activity of the heart from a different angle, and therefore align with different anatomical areas of the heart
+For example, though V4 is an anterior lead and V5 is a lateral lead, they are contiguous because they are next to one another
+Anterior leads	V3 and V4	Look at electrical activity from the vantage point of the anterior wall of the right and left ventricles (Sternocostal surface of heart)
+In addition, any two precordial leads next to one another are considered to be contiguous
+Septal leads	V1 and V2	Look at electrical activity from the vantage point of the septal surface of the heart (interventricular septum)
+Inferior leads	Leads II, III and aVF	Look at electrical activity from the vantage point of the inferior surface (diaphragmatic surface of heart)
+Category	Leads	Activity

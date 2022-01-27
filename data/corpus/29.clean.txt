@@ -1,0 +1,8 @@
+ecg leads
+record routine ecg 12 leads used clinical practice 3 standard bipolar limb leads 3 augmented unipolar limb leads 6 chest leads
+standard bipolar limb leads
+standard leads proposed einthoven 1913 record potential difference two points body
+electrodes placed right arm left arm left leg fourth electrode right leg connected earth wire
+lead obtained connecting right arm left arm electrodes
+lead ii obtained connecting right arm left leg electrodes
+lead iii obtained connecting left arm left leg electrodes

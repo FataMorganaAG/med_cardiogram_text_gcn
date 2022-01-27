@@ -1,0 +1,5 @@
+Recently, unipolar precordial leads have been used to create bipolar precordial leads that explore the right to left axis in the horizontal plane
+The six precordial electrodes act as the positive poles for the six corresponding precordial leads: (V1, V2, V3, V4, V5, and V6)
+Wilson's central terminal is used as the negative pole
+Precordial leads
+The precordial leads lie in the transverse (horizontal) plane, perpendicular to the other six leads

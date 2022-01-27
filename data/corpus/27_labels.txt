@@ -1,0 +1,9 @@
+Operating principle
+These are ink-writing instruments, which draw curves on paper
+The input voltage is extremely low, and it is therefore amplified 600 – 700 times
+The recording principle differs with various instruments
+There are electrocardiographs in which special heart-sensitive paper is used
+Since the magnitude and direction of the electromotive force incessantly change during the cardiac cycle, the galvanometer pointer shows variations in the voltage a recording device draws a curve on a moving paper to show graphically these fluctuations
+Fluctuations in the potential difference that arise during the exitation of the heart muscle are senced by the electrodes attached to the patient’s body and transmitted to the apparatus
+Dark paper is coated with heart- sensitive layers of paraffin and chalk; a hot stylus, which removes paraffin from the colored supporting paper, does the record
+Electrocardiographs are popular in which the fluctuations are recorded on a moving paper during the measurement

@@ -1,0 +1,6 @@
+The positions of the chest leads selected are ): V1: fourth intercostal space, right sternal border, V2: fourth intercostal space, left sternal border, V3: midway between V2 and V4 on a line jointing these two points V4: interspace in which apex is located (fifth or sixth); midclavicular line, V5: anterior left axillary line; on the same level with V4, V6: left midaxillary line; on the same level with V4 and V5
+Unipolar Chest Leads
+Wilson proposed unipolar chest leads in 1934 year, are designated by the single capital letter V followed by a subscript numeral that represents the location of the active electrode on the precordium
+Electrode placement in the augmented leads technique
+In the 1938 the American and British Heart Associations appointed committees to standardize the nomenclature of precordial leads
+The negative Wilson electrode is formed by connection of right arm, left arm, left leg electrodes

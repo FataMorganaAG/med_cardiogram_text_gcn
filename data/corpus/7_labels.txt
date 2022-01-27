@@ -1,0 +1,14 @@
+It is referred to immediately below as "the negative pole"
+The negative pole is a combination of the right arm electrode and the left arm electrode: aVF = LL - \frac{1}{2} (RA + LA) = \frac 32 (LL - V_W)
+Augmented limb leads
+They are derived from the same three electrodes as leads I, II, and III, but they use Goldberger's central terminal as their negative pole
+Leads aVR, aVL, and aVF are the augmented limb leads
+Goldberger's central terminal is a combination of inputs from two limb electrodes, with a different combination for each augmented lead
+The negative pole is a combination of the right arm electrode and the left leg electrode: aVL = LA - \frac{1}{2} (RA + LL) = \frac 32 (LA - V_W)
+Lead augmented vector left (aVL) has the positive electrode on the left arm
+Lead augmented vector foot (aVF) has the positive electrode on the left leg
+The negative pole is a combination of the left arm electrode and the left leg electrode: aVR = RA - \frac{1}{2} (LA + LL) = \frac 32 (RA - V_W)
+The Goldberger terminals scale up (augments) the Wilson results by 50%, at the cost of sacrificing physical correctness by not having the same negative pole for all three
+Together with leads I, II, and III, augmented limb leads aVR, aVL, and aVF form the basis of the hexaxial reference system, which is used to calculate the heart's electrical axis in the frontal plane
+Older versions of the nodes (VR, VL, VF) use Wilson's central terminal as the negative pole, but the amplitude is too small for the thick lines of old ECG machines
+Lead augmented vector right (aVR) has the positive electrode on the right arm

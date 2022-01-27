@@ -1,0 +1,20 @@
+results automated algorithms considered preliminary verified modified expert interpretation
+machines powered mains power designed several safety features including earthed ground lead
+simultaneous lead recordings earlier designs recorded lead sequentially current models record multiple leads simultaneously
+recent advancements electrocardiography include developing even smaller devices inclusion fitness trackers smart watches
+electrostatic discharge similar defibrillation discharge requires voltage protection 18 000 volts
+modern ecg machines include automated interpretation algorithms
+electrocardiograms recorded machines consist set electrodes connected central unit
+analysis calculates features pr interval qt interval corrected qt qtc interval pr axis qrs axis rhythm
+early ecg machines constructed analog electronics signal drove motor print signal onto paper
+portable six lead devices also available
+today electrocardiographs use analog digital converters convert electrical activity heart digital signal
+ecg voltages measured across body small
+smaller devices often rely two electrodes deliver single lead
+recording ecg safe painless procedure
+many ecg machines portable commonly include screen keyboard printer small wheeled cart
+electrocardiograph machines
+features include defibrillation protection ecg used healthcare may attached person requires defibrillation ecg needs protect source energy
+low voltage necessitates low noise circuit instrumentation amplifiers electromagnetic shielding
+despite recent advances computer misinterpretation remains significant problem result clinical mismanagement
+additionally circuitry called right leg driver used reduce common mode interference typically 50 60 hz mains power

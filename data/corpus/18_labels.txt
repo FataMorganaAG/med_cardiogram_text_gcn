@@ -1,0 +1,20 @@
+Once sinus rhythm is established, or not, the second question is the rate.
+In adults, a normal heart rate is between 60 and 100 bpm (normocardic), whereas it is higher in children.
+A criterion for sinus rhythm is that P waves and QRS complexes appear 1-to-1, thus implying that the P wave causes the QRS complex.
+Determination of rate and rhythm is necessary in order to make sense of further interpretation.
+A complication of this is when the atria and ventricles are not in synchrony and the "heart rate" must be specified as atrial or ventricular (e.g., the ventricular rate in ventricular fibrillation is 300–600 bpm, whereas the atrial rate can be normal [60–100] or faster [100–150]).
+A sine wave pattern is the hallmark of ventricular flutter.
+Rate and rhythm.
+For a sinus rhythm, this is either the rate of P waves or QRS complexes since they are 1-to-1.
+If the rate is too fast, then it is sinus tachycardia, and if it is too slow, then it is sinus bradycardia.
+Thus, the first question in interpreting an ECG is whether or not there is a sinus rhythm.
+Generally, deviation from normal sinus rhythm is considered a cardiac arrhythmia.
+Absent P waves with wide QRS complexes and a fast heart rate is ventricular tachycardia.
+In a normal heart, the heart rate is the rate in which the sinoatrial node depolarizes since it is the source of depolarization of the heart.
+A "saw tooth" pattern with QRS complexes is the hallmark of atrial flutter.
+Heart rate, like other vital signs such as blood pressure and respiratory rate, change with age.
+A heart rate below normal is called "bradycardia" (<60 in adults) and above normal is called "tachycardia" (>100 in adults).
+Some arrhythmias with characteristic findings: Absent P waves with "irregularly irregular" QRS complexes is the hallmark of atrial fibrillation.
+In normal resting hearts, the physiologic rhythm of the heart is normal sinus rhythm (NSR).
+If it is not a sinus rhythm, then determining the rhythm is necessary before proceeding with further interpretation.
+Normal sinus rhythm produces the prototypical pattern of P wave, QRS complex, and T wave.

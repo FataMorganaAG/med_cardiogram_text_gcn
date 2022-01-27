@@ -1,0 +1,29 @@
+measurement voltage requires two contacts electrically unipolar leads measured common lead negative unipolar lead positive
+10 electrodes 12 lead ecg listed
+common virtual electrode known wilson 's central terminal vw produced averaging measurements electrodes ra la give average potential body 12 lead ecg leads except limb leads assumed unipolar avr avl avf v1 v2 v3 v4 v5 v6
+pair electrodes measure electrical potential difference two corresponding locations attachment
+electrode consists electrically conductive electrolyte gel silver silver chloride conductor
+however leads also formed physical electrode virtual electrode known wilson 's central terminal wct whose potential defined average potential measured three limb electrodes attached right arm left arm left foot respectively
+v3 leads v2 v4
+v4 fifth intercostal space ribs 5 6 mid clavicular line
+12 lead ecg total three limb leads three augmented limb leads arranged like spokes wheel coronal plane vertical six precordial leads chest leads lie perpendicular transverse plane horizontal
+v6 horizontally even v4 v5 mid axillary line
+v5 horizontally even v4 left anterior axillary line
+location rl placed left leg
+two types electrodes common use flat paper thin sticker self adhesive circular pad
+commonly 10 electrodes attached body used form 12 ecg leads lead measuring specific electrical potential difference listed table
+electrodes actual conductive pads attached body surface
+leads broken three types limb augmented limb precordial chest
+former typically used single ecg recording latter continuous recordings stick longer
+medical settings term leads also sometimes used refer electrodes although technically incorrect
+pair forms lead
+electrodes leads
+averaging common lead abstract unipolar lead concept makes challenging understanding complicated sloppy usage lead electrode
+electrode name electrode placement ra right arm avoiding thick muscle
+fact instead constant reference vw value fluctuates throughout heart cycle
+la location ra placed left arm
+gel typically contains potassium chloride sometimes silver chloride well permit electron conduction skin wire electrocardiogram
+v1 fourth intercostal space ribs 4 5 right sternum breastbone
+rl right leg lower end inner aspect calf muscle avoid bony prominences
+v2 fourth intercostal space ribs 4 5 left sternum
+also truly represent center heart potential due body parts signals travel

@@ -4,12 +4,11 @@ from __future__ import division
 from __future__ import print_function
 
 import time
-# import tensorflow as tf
 import tensorflow.compat.v1 as tf
 
 from sklearn import metrics
 from utils import *
-from models import GCN, MLP
+from models import GCN
 import random
 import os
 import sys
@@ -19,7 +18,9 @@ tf.compat.v1.disable_eager_execution()
 if len(sys.argv) != 2:
     sys.exit("Use: python train.py <dataset>")
 
-datasets = ['20ng', 'R8', 'R52', 'ohsumed', 'mr']
+datasets = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18',
+            '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34',
+            '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48']
 dataset = sys.argv[1]
 
 if dataset not in datasets:
@@ -35,9 +36,11 @@ os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-# 'cora', 'citeseer', 'pubmed'
+# '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18',
+#             '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34',
+#             '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48'
 flags.DEFINE_string('dataset', dataset, 'Dataset string.')
-# 'gcn', 'gcn_cheby', 'dense'
+# 'gcn'
 flags.DEFINE_string('model', 'gcn', 'Model string.')
 flags.DEFINE_float('learning_rate', 0.02, 'Initial learning rate.')
 flags.DEFINE_integer('epochs', 200, 'Number of epochs to train.')
@@ -65,14 +68,6 @@ if FLAGS.model == 'gcn':
     support = [preprocess_adj(adj)]
     num_supports = 1
     model_func = GCN
-elif FLAGS.model == 'gcn_cheby':
-    support = chebyshev_polynomials(adj, FLAGS.max_degree)
-    num_supports = 1 + FLAGS.max_degree
-    model_func = GCN
-elif FLAGS.model == 'dense':
-    support = [preprocess_adj(adj)]  # Not used
-    num_supports = 1
-    model_func = MLP
 else:
     raise ValueError('Invalid argument for model: ' + str(FLAGS.model))
 
@@ -142,8 +137,6 @@ print("Optimization Finished!")
 # Testing
 test_cost, test_acc, pred, labels, test_duration = evaluate(
     features, support, y_test, test_mask, placeholders)
-print("Test set results:", "cost=", "{:.5f}".format(test_cost),
-      "accuracy=", "{:.5f}".format(test_acc), "time=", "{:.5f}".format(test_duration))
 
 test_pred = []
 test_labels = []
@@ -153,21 +146,10 @@ for i in range(len(test_mask)):
         test_pred.append(pred[i])
         test_labels.append(labels[i])
 
-print("Test Precision, Recall and F1-Score...")
-print(metrics.classification_report(test_labels, test_pred, digits=4))
-print("Macro average Test Precision, Recall and F1-Score...")
-print(metrics.precision_recall_fscore_support(test_labels, test_pred, average='macro'))
-print("Micro average Test Precision, Recall and F1-Score...")
-print(metrics.precision_recall_fscore_support(test_labels, test_pred, average='micro'))
-
-# doc and word embeddings
+# embeddings
 print('embeddings:')
 word_embeddings = outs[3][train_size: adj.shape[0] - test_size]
-train_doc_embeddings = outs[3][:train_size]  # include val docs
-test_doc_embeddings = outs[3][adj.shape[0] - test_size:]
-
-print(len(word_embeddings), len(train_doc_embeddings),
-      len(test_doc_embeddings))
+print(len(word_embeddings))
 print(word_embeddings)
 
 f = open('data/corpus/' + dataset + '_vocab.txt', 'r')
@@ -183,25 +165,6 @@ for i in range(vocab_size):
     word_vectors.append(word + ' ' + word_vector_str)
 
 word_embeddings_str = '\n'.join(word_vectors)
-f = open('data/' + dataset + '_word_vectors.txt', 'w')
+f = open('data/results/' + dataset + '_word_vectors.txt', 'w')
 f.write(word_embeddings_str)
-f.close()
-
-doc_vectors = []
-doc_id = 0
-for i in range(train_size):
-    doc_vector = train_doc_embeddings[i]
-    doc_vector_str = ' '.join([str(x) for x in doc_vector])
-    doc_vectors.append('doc_' + str(doc_id) + ' ' + doc_vector_str)
-    doc_id += 1
-
-for i in range(test_size):
-    doc_vector = test_doc_embeddings[i]
-    doc_vector_str = ' '.join([str(x) for x in doc_vector])
-    doc_vectors.append('doc_' + str(doc_id) + ' ' + doc_vector_str)
-    doc_id += 1
-
-doc_embeddings_str = '\n'.join(doc_vectors)
-f = open('data/' + dataset + '_doc_vectors.txt', 'w')
-f.write(doc_embeddings_str)
 f.close()

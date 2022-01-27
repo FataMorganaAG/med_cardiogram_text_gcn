@@ -1,0 +1,7 @@
+artifacts
+ecg tracing affected patient motion
+rhythmic motions shivering tremors create illusion cardiac arrhythmia
+artifacts distorted signals caused secondary internal external sources muscle movement interference electrical device
+distortion poses significant challenges healthcare providers employ various techniques strategies safely recognize false signals
+accurately separating ecg artifact true ecg signal significant impact patient outcomes legal liabilities
+improper lead placement example reversing two limb leads estimated occur 0 4 ecg recordings resulted improper diagnosis treatment including unnecessary use thrombolytic therapy

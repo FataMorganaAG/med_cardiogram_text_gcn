@@ -1,0 +1,38 @@
+amplitudes intervals
+waves ecg tracing intervals predictable time duration range acceptable amplitudes voltages typical morphology
+deviation normal tracing potentially pathological therefore clinical significance
+ease measuring amplitudes intervals ecg printed graph paper standard scale 1 mm one small box standard ecg paper represents 40 milliseconds time x axis 0 1 millivolts axis
+p wave p wave represents depolarization atria
+atrial depolarization spreads sa node towards av node right atrium left atrium
+p wave typically upright leads except avr unusual p wave axis inverted leads indicate ectopic atrial pacemaker
+p wave unusually long duration may represent atrial enlargement
+typically large right atrium gives tall peaked p wave large left atrium gives two humped bifid p wave 80 ms
+pr interval pr interval measured beginning p wave beginning qrs complex
+interval reflects time electrical impulse takes travel sinus node av node
+pr interval shorter 120 ms suggests electrical impulse bypassing av node wolf parkinson white syndrome
+pr interval consistently longer 200 ms diagnoses first degree atrioventricular block
+pr segment portion tracing p wave qrs complex typically completely flat may depressed pericarditis 120 200 ms
+qrs complex qrs complex represents rapid depolarization right left ventricles
+ventricles large muscle mass compared atria qrs complex usually much larger amplitude p wave
+qrs complex wide longer 120 ms suggests disruption heart 's conduction system lbbb rbbb ventricular rhythms ventricular tachycardia
+metabolic issues severe hyperkalemia tricyclic antidepressant overdose also widen qrs complex
+unusually tall qrs complex may represent left ventricular hypertrophy low amplitude qrs complex may represent pericardial effusion infiltrative myocardial disease 80 100 ms
+j point j point point qrs complex finishes st segment begins
+j point may elevated normal variant
+appearance separate j wave osborn wave j point pathognomonic hypothermia hypercalcemia
+st segment st segment connects qrs complex wave represents period ventricles depolarized
+usually isoelectric may depressed elevated myocardial infarction ischemia
+st depression also caused lvh digoxin
+st elevation also caused pericarditis brugada syndrome normal variant j point elevation
+wave wave represents repolarization ventricles
+generally upright leads except avr lead v1
+inverted waves sign myocardial ischemia left ventricular hypertrophy high intracranial pressure metabolic abnormalities
+peaked waves sign hyperkalemia early myocardial infarction 160 ms
+corrected qt interval qtc qt interval measured beginning qrs complex end wave
+acceptable ranges vary heart rate must corrected qtc dividing square root rr interval
+prolonged qtc interval risk factor ventricular tachyarrhythmias sudden death
+long qt arise genetic syndrome side effect certain medications
+unusually short qtc seen severe hypercalcemia 440 ms
+u wave u wave hypothesized caused repolarization interventricular septum
+normally low amplitude even often completely absent
+prominent u wave sign hypokalemia hypercalcemia hyperthyroidism

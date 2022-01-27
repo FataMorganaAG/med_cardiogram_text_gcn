@@ -1,0 +1,10 @@
+normal q wave amplitude leads except avr 1 4 r wave amplitude duration 0 03 seconds
+p q r interval measured beginning p wave onset q r wave includes activation atria av node bundle bundle branches purkinje network
+normal p q duration 0 12 0 2 second
+q wave may deep wide avr lead even qs complex may register
+normal q wave inverted ii iii avl avf v4 v6 leads
+q wave represents depolarization interventricular septum
+ventricular complex qrst
+p q segment measured end p wave onset q wave represents mostly delay activation impulse passes av node bundle
+p q segment p q interval
+p q r interval

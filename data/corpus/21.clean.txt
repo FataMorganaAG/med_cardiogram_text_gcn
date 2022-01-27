@@ -1,0 +1,42 @@
+limb leads electrical conduction heart
+animation shown right illustrates path electrical conduction gives rise ecg waves limb leads
+recall positive current created depolarization cardiac cells traveling towards positive electrode away negative electrode creates positive deflection ecg
+likewise positive current traveling away positive electrode towards negative electrode creates negative deflection ecg
+red arrow represents overall direction travel depolarization
+magnitude red arrow proportional amount tissue depolarized instance
+red arrow simultaneously shown axis 3 limb leads
+direction magnitude red arrow 's projection onto axis limb lead shown blue arrows
+direction magnitude blue arrows theoretically determine deflections ecg
+example blue arrow axis lead moves negative electrode right towards positive electrode ecg line rises creating upward wave
+blue arrow axis lead moves left downward wave created
+greater magnitude blue arrow greater deflection ecg particular limb lead
+frames 1 3 depict depolarization generated spreading sinoatrial node
+sa node small depolarization detected ecgs
+frames 4 10 depict depolarization traveling atria towards atrioventricular node
+frame 7 depolarization traveling largest amount tissue atria creates highest point p wave
+frames 11 12 depict depolarization traveling av node
+like sa node av node small depolarization tissue detected ecgs
+creates flat pr segment
+frame 13 depicts interesting phenomenon simplified fashion
+depicts depolarization starts travel interventricular septum bundle bundle branches
+bundle conduction system splits left bundle branch right bundle branch
+branches conduct action potentials 1
+interestingly however action potential starts traveling left bundle branch 5 milliseconds starts traveling right bundle branch depicted frame 13
+causes depolarization interventricular septum tissue spread left right depicted red arrow frame 14
+cases gives rise negative deflection pr interval creating q wave one seen lead animation right
+depending mean electrical axis heart phenomenon result q wave lead ii well
+following depolarization interventricular septum depolarization travels towards apex heart
+depicted frames 15 17 results positive deflection three limb leads creates r wave
+frames 18 21 depict depolarization travels throughout ventricles apex heart following action potential purkinje fibers
+phenomenon creates negative deflection three limb leads forming wave ecg
+repolarization atria occurs time generation qrs complex detected ecg since tissue mass ventricles much larger atria
+ventricular contraction occurs ventricular depolarization repolarization
+time movement charge deflection created ecg
+results flat st segment wave
+frames 24 28 animation depict repolarization ventricles
+epicardium first layer ventricles repolarize followed myocardium
+endocardium last layer repolarize
+plateau phase depolarization shown last longer endocardial cells epicardial cells
+causes repolarization start apex heart move upwards
+since repolarization spread negative current membrane potentials decrease back resting membrane potential red arrow animation pointing direction opposite repolarization
+therefore creates positive deflection ecg creates wave

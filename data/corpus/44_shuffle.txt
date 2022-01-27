@@ -1,0 +1,3 @@
+st segment represents period parts ventricles depolarized state
+st segment
+st segment duration depends heart rate

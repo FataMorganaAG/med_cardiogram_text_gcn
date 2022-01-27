@@ -1,0 +1,21 @@
+Determination of the Cardiac Rhythm Pacemaker Site.
+The P waves configuration is equal in each lead.
+The P wave duration indicates time of atria activation, the P – Q interval and the QRS complex duration – ventricular activation.
+Interpretation of the ECG.
+In the ECG conclusion it is necessary to note following: The cardiac rhythm pacemaker (sinus or nonsinus rhythm); Regularity of the cardiac rhythm (regular or irregular); The heart rate; Position of the electrical axis of the heart;  Presence of the four ECG syndromes: arrhythmias, abnormalities of conductivity, atrial and ventricular hypertrophy, myocardial damage (ischemia, injury, necrosis, scar).
+If the amplitude of the highest R wave does not exceed 5 mm, or the sum of the R waves amplitude in the three standard leads is less than 15 mm the ECG voltage is considered decreased.
+Measurement of the duration and amplitude of the ECG waves and intervals.
+The R waves amplitude are measured in standard leads.
+Measurement of the ECG Amplitude.
+The R-R intervals in regular rhythm should be equal.
+The normal sinus rhythm is characterized by upright P wave in lead I, II, aVF following by QRS complex.
+Determination of the Cardiac Rhythm Regularity.
+Its fluctuation normally does not exceed 0.1 second.
+Determination of the Electrical Axis of the Heart.
+Estimation of the Conductivity.
+In regular cardiac rhythm the heart rate is determined by formula: HR = 60/R-R; where 60 is a number of seconds in minute, R-R – duration of the R-R intervals in seconds.
+The depolarization and repolarization portions on the normal ECG.
+Calculation of the Heart Rate.
+Increased duration of these waves and intervals indicates slowed impulse conduction in corresponding part of the cardiac conduction system.
+ECG conclusion.
+Greater variations in the R-R intervals duration indicate irregular cardiac rhythm.

@@ -1,0 +1,21 @@
+history
+1872 alexander muirhead reported attached wires wrist patient fever obtain electronic record heartbeat
+1882 john burdon sanderson working frogs first appreciate interval variations potential electrically quiescent coined term isoelectric interval period
+1887 augustus waller invented ecg machine consisting lippmann capillary electrometer fixed projector
+trace heartbeat projected onto photographic plate fixed toy train
+allowed heartbeat recorded real time
+1895 willem einthoven assigned letters p q r deflections theoretical waveform created using equations corrected actual waveform obtained capillary electrometer compensate imprecision instrument
+using letters different b c letters used capillary electrometer 's waveform facilitated comparison uncorrected corrected lines drawn graph
+einthoven probably chose initial letter p follow example set descartes geometry
+precise waveform obtained using string galvanometer matched corrected capillary electrometer waveform continued use letters p q r letters still use today
+einthoven also described electrocardiographic features number cardiovascular disorders
+1897 string galvanometer invented french engineer cl ment ader
+1901 einthoven working leiden netherlands used string galvanometer first practical ecg
+device much sensitive capillary electrometer waller used
+1924 einthoven awarded nobel prize medicine pioneering work developing ecg
+1927 general electric developed portable apparatus could produce electrocardiograms without use string galvanometer
+device instead combined amplifier tubes similar used radio internal lamp moving mirror directed tracing electric pulses onto film
+1937 taro takemi invented new portable electrocardiograph machine
+1942 emanuel goldberger increases voltage wilson 's unipolar leads 50 creates augmented limb leads avr avl avf
+added einthoven 's three limb leads six chest leads arrive 12 lead electrocardiogram used today
+late 1940s rune elmqvist invented inkjet printer thin jets ink deflected electrical potentials heart good frequency response direct recording ecg paper device called mingograf sold siemens elema 1990s

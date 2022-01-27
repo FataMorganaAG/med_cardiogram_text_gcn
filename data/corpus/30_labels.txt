@@ -1,0 +1,9 @@
+Goldberger proposed augmented unipolar leads in 1942 year
+Before Goldberger proposition unipolar limb leads by Wilson were taken with the exploring electrode connected to the designated extremity (right arm, left arm, left leg) and the indifferent electrode (central terminal) connected to all three limbs, including the extremity being explored
+Three augmented unipolar leads are distinguished aVR: augmented unipolar right arm (+) lead, the central (-) terminal is connection of the right arm and left leg electrodes; aVL: augmented unipolar left arm (+) lead, the central (-) terminal is connection of right arm and left leg electrodes; aVF: augmented unipolar left leg (+) lead, the central terminal is connection of right arm and left arm electrodes
+He proposed to exclude from the electrode connection the electrode of the extremity being explored
+Coldberger modified or “augmented Wilson’s extremity lead, increasing the amplitude of the deflections by 50%
+Electrode placement in the standard leads technique
+Augmented Unipolar Limb Leads
+The letter “a” is used to designate the augmented lead
+It was observed that the final deflections obtained with the Wilson central terminal system in the limb leads were generally of very low voltage, making interpretation difficult

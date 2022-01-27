@@ -1,0 +1,20 @@
+Many ECG machines are now portable and commonly include a screen, keyboard, and printer on a small wheeled cart.
+This low voltage necessitates a low noise circuit, instrumentation amplifiers, and electromagnetic shielding.
+Electrostatic discharge is similar to defibrillation discharge and requires voltage protection up to 18,000 volts.
+This analysis calculates features such as the PR interval, QT interval, corrected QT (QTc) interval, PR axis, QRS axis, rhythm and more.
+The results from these automated algorithms are considered "preliminary" until verified and/or modified by expert interpretation.
+Other features include: Defibrillation protection: any ECG used in healthcare may be attached to a person who requires defibrillation and the ECG needs to protect itself from this source of energy.
+Additionally, circuitry called the right leg driver can be used to reduce common-mode interference (typically the 50 or 60 Hz mains power).
+Electrocardiograph machines.
+Early ECG machines were constructed with analog electronics, where the signal drove a motor to print out the signal onto paper.
+Today, electrocardiographs use analog-to-digital converters to convert the electrical activity of the heart to a digital signal.
+Most modern ECG machines include automated interpretation algorithms.
+Recent advancements in electrocardiography include developing even smaller devices for inclusion in fitness trackers and smart watches.
+The machines are powered by mains power but they are designed with several safety features including an earthed (ground) lead.
+Despite recent advances, computer misinterpretation remains a significant problem and can result in clinical mismanagement.
+Recording an ECG is a safe and painless procedure.
+Electrocardiograms are recorded by machines that consist of a set of electrodes connected to a central unit.
+These smaller devices often rely on only two electrodes to deliver a single lead I.
+Portable six-lead devices are also available.
+ECG voltages measured across the body are very small.
+Simultaneous lead recordings: earlier designs recorded each lead sequentially, but current models record multiple leads simultaneously.

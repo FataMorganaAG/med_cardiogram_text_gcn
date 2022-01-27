@@ -1,0 +1,8 @@
+Interpretation of the ECG is fundamentally about understanding the electrical conduction system of the heart
+Like all medical tests, what constitutes "normal" is based on population studies
+Certain rhythms are known to have good cardiac output and some are known to have bad cardiac output
+Ultimately, an echocardiogram or other anatomical imaging modality is useful in assessing the mechanical function of the heart
+The heartrate range of between 60 and 100 beats per minute (bpm) is considered normal since data shows this to be the usual resting heart rate
+An ECG does not equate with mechanical pumping activity of the heart, for example, pulseless electrical activity produces an ECG that should pump blood but no pulses are felt (and constitutes a medical emergency and CPR should be performed)
+Ventricular fibrillation produces an ECG but is too dysfunctional to produce a life-sustaining cardiac output
+Normal conduction starts and propagates in a predictable pattern, and deviation from this pattern can be a normal variation or be pathological
